@@ -1,5 +1,9 @@
 @CHARSET "UTF-8";
 
+select {
+    height: 30px;
+}
+
 
 table#employee_list th {
     width: 30%;
